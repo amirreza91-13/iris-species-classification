@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Iris Species Classification</title><desc id="desc">A dark green scientific banner for an Iris flower classification project using K-nearest neighbors.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071713"/><stop offset="1" stop-color="#102e26"/></linearGradient><radialGradient id="glow"><stop stop-color="#36d399" stop-opacity=".35"/><stop offset="1" stop-color="#36d399" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><circle cx="1010" cy="165" r="250" fill="url(#glow)"/>
+<g fill="none" stroke="#42d6a0" stroke-opacity=".22"><path d="M770 40L920 100 1070 35 1160 120 1060 220 1150 310"/><path d="M800 300L920 100 1000 290 1160 120"/><circle cx="920" cy="100" r="60"/><circle cx="1000" cy="200" r="105"/></g>
+<g transform="translate(900 175)"><path d="M0 80C-20 20-10-25 0-75C18-25 25 25 0 80Z" fill="#2eaa77"/><path d="M0 80C-100 30-110-25-80-55C-25-50 0 15 0 80Z" fill="#57dca4"/><path d="M0 80C100 30 110-25 80-55C25-50 0 15 0 80Z" fill="#299c71"/><path d="M0 75C-55 5-50-60 0-95C50-60 55 5 0 75Z" fill="#9bf2c8"/><circle cy="10" r="17" fill="#f4c96b"/><path d="M0 85L-18 140M0 85L24 145" stroke="#7bd6a8" stroke-width="7" stroke-linecap="round"/></g>
+<text x="64" y="105" font-family="Inter,Arial,sans-serif" font-size="22" letter-spacing="5" fill="#6de6b4">MACHINE LEARNING · CLASSIFICATION</text>
+<text x="60" y="177" font-family="Inter,Arial,sans-serif" font-size="55" font-weight="700" fill="#f2fff8">Iris Species</text><text x="60" y="238" font-family="Inter,Arial,sans-serif" font-size="55" font-weight="700" fill="#65e6b1">Classification</text>
+<text x="64" y="290" font-family="Inter,Arial,sans-serif" font-size="23" fill="#c1d9ce">K-Nearest Neighbors (KNN) · scikit-learn · Python</text>
+<rect x="1010" y="292" width="130" height="34" rx="17" fill="#164c3b" stroke="#54dca6"/><text x="1075" y="314" font-family="Inter,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#a8f6d4">EDUCATIONAL</text></svg>
