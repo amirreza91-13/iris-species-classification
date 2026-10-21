@@ -1,5 +1,7 @@
 # Iris Species Classification
 
+<p align="center"><img src="images/project-banner.svg" alt="Iris Species Classification project banner" width="100%"></p>
+
 A beginner-friendly machine learning project using **K-Nearest Neighbors (KNN)** to classify Iris flowers into three species from four measurements.
 
 > **Project status:** Educational learning project. Run the notebook to reproduce results; no performance score is claimed here.
