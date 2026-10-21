@@ -49,6 +49,14 @@ pip install -r requirements.txt
 
 Launch Jupyter with `jupyter notebook`, open `j2.ipynb`, and run the cells in order.
 
+## Evaluation results
+
+The notebook was executed with a stratified 80/20 train/test split (`random_state=42`) and `KNeighborsClassifier(n_neighbors=5)`. On this single split, the model achieved **100% accuracy (30/30 test samples)**. Each class had 10 test samples and all were classified correctly.
+
+![KNN confusion matrix](images/confusion-matrix.svg)
+
+This is a result from one holdout split, not a guarantee of generalization. Cross-validation and feature-scaling experiments are useful next steps.
+
 ## Example prediction
 
 The notebook predicts a species for a sample with measurements `[5, 2, 3, 1]`. The predicted class depends on the fitted model and train/test split.
